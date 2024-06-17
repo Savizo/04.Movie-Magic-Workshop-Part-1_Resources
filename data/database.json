@@ -1,0 +1,42 @@
+[
+    {
+        "id": "f6ad-d6be",
+        "title": "Jungle Cruise",
+        "genre": "Adventure",
+        "director": "Jaume Collet-Serra",
+        "year": 2021,
+        "imageURL": "/static/img/jungle-cruise.jpeg",
+        "rating": 3,
+        "description": "Dreaming about saving countless lives and having another adventure, the feisty English feminist and doctor of botany, Dr Lily Houghton, embarks on a peril-laden mission to change the world. Along with her fashionable brother, MacGregor, Dr Houghton enlists the help of the arrogant, wisecracking riverboat skipper, Captain Frank Wolff, to guide them through the serpentine Amazon River in La Quila, his swift wooden boat. Now, as the intrepid trio ventures deeper and deeper into the heart of an impenetrable green maze, searching for something that cannot be found, a centuries-old curse and the ruthless aristocrat, Prince Joachim, threaten to put an end to their ambitious plans."
+    },
+    {
+        "id": "f373-bd4e",
+        "title": "The Little Mermaid",
+        "genre": "Fantasy",
+        "director": "Not specified",
+        "year": 2023,
+        "imageURL": "/static/img/the-little-mermaid.jpg",
+        "rating": 3,
+        "description": "The youngest of King Triton's daughters, Ariel, is a spirited young mermaid longing to explore the world beyond the sea. She falls for the dashing Prince Eric and makes a deal with the evil sea witch, Ursula, to experience life on land."
+    },
+    {
+        "id": "0517-9978",
+        "title": "Home Alone",
+        "genre": "Comedy",
+        "director": "Not specified",
+        "year": 1990,
+        "imageURL": "/static/img/home-alone.jpeg",
+        "rating": 4,
+        "description": "It is Christmas time, and the McCallister family is preparing for a vacation in Paris. However, the youngest family member, Kevin (Macaulay Culkin), accidentally gets left behind and must defend his home from burglars."
+    },
+    {
+        "id": "ac92-c5a2",
+        "title": "Dune Part 1",
+        "genre": "Action",
+        "director": "Denis Villeneuve",
+        "year": 2021,
+        "imageURL": "/static/img/dune-part-1.jpg",
+        "rating": 4,
+        "description": "Dune Part 1” is a science fiction novel written by Frank Herbert. Set in a distant future, it follows the story of Paul Atreides, the young heir of House Atreides, as he navigates political intrigue, power struggles, and ecological challenges on the desert planet of Arrakis. The novel explores themes of religion, environmentalism, and the human capacity for adaptation."
+    }
+]
