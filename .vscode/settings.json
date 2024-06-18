@@ -1,5 +1,4 @@
 {
-  "git.enabled": true,
   "explorer.excludeGitIgnore": false,
   "git.enableStatusBarSync": true
 }
